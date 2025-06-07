@@ -4,13 +4,17 @@ Trabajo practico final de Computacion Aplicada
 ###  Alumnos:
 
 **Dante Thomas Lagos**
+
 **Sergio Emiliano Barrios**
+
 **Cristhoper Segovia**
+
 **Juan Ignacio Paracchini**
 
 
+
 # Configuracion GNU/Linux sabor Debian
-#Automatizacion de Backup con scripts
+# Automatizacion de Backup con scripts
 
 ## Contenido:
 #### Este repositorio contiene la configuracion y scripts desarrollados para el Trabajo Practico grupal Final, Incluye:
