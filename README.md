@@ -29,15 +29,15 @@ Trabajo practico final de Computacion Aplicada
 - /backup_dir (backups generados)
 - /var (dividido en partes por tamaño)
 
-##Requisitos
+## Requisitos
 
 - Debian GNU/Linux (Sin entorno grafico o GUI)
 - VirtualBox
 - Acceso SSH
 
-###Diagrama Topologico
+### Diagrama Topologico
 
 
 
-###Fin
+### Fin
 ##### Que la fuerza los acompañe
