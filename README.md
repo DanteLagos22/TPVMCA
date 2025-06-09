@@ -50,8 +50,6 @@ Trabajo practico final de Computacion Aplicada
 - Backup de `/www_dir` los lunes, miércoles y viernes a las 23:00 h.
 - Script con validaciones y logs, ubicado en `/opt/scripts`.
 
-### Diagrama Topologico
-
 
 
 ### Fin
